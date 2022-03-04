@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+}
+
+.p-5{
+    background-image: url(img/rodellarPaisaje.jpg);
+    align-content: center;
+    color:rgb(252, 248, 6);
+    text-shadow: 3px 3px 7px black  ;
+}
+h1{
+    text-transform: capitalize;
+
+}
+
+body{
+    background-image: url(wave-haikei.svg);
+    background-color: rgb(0, 0, 0);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    align-items: center;
+    align-content:center ;
+   
+        }
+.p2{
+    color:white;
+    text-align: center;
+    padding: 4px;
+    }
+
+.mapa{
+    align-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.nav-link:hover {
+    color:rgb(252, 248, 6) !important;
+    text-decoration: underline;
+}
+.actividades{
+    padding: 10px;
+    }
+
+.card{
+    display: inline-flex;
+    align-items: center;
+}
+.contactomsj{
+    color:white;
+}
+button{
+    background-color: yellowgreen;
+    align-items: center;
+    align-content: center;
+    
+}
