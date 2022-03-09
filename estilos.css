@@ -56,3 +56,13 @@ button{
     align-content: center;
     
 }
+.quienessomos{
+    color:white;
+    padding:10px;
+}
+.conteinerfluid{
+    text-align: center;
+    color: aliceblue;
+    height: 50px;
+    background-color: black;
+}
