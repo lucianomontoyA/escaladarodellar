@@ -1,3 +1,5 @@
+
+
 *{
     margin: 0;
 }
@@ -10,7 +12,12 @@
 }
 h1{
     text-transform: capitalize;
+    }
 
+.icono {
+    width:5%;
+    height: 5%;
+    padding: 3px;
 }
 
 body{
@@ -27,6 +34,10 @@ body{
     color:white;
     text-align: center;
     padding: 4px;
+    }
+    .card-title{
+        text-decoration: underline;
+        text-transform: capitalize;
     }
 
 .mapa{
@@ -49,11 +60,20 @@ body{
 }
 .contactomsj{
     color:white;
+    text-transform: capitalize;
+}
+.btn-primary{
+    text-shadow: none;
+    text-transform: capitalize;
+    align-items: center;
+    align-content: center;
+    border: fuchsia ,solid ,3px;
 }
 button{
     background-color: yellowgreen;
     align-items: center;
     align-content: center;
+    text-shadow: none;
     
 }
 .quienessomos{
@@ -65,4 +85,12 @@ button{
     color: aliceblue;
     height: 50px;
     background-color: black;
+}
+
+.card-body{
+    background-color: white;
+    background-image: url(imagenes/icono\ escalada.png);
+    background-position: center;
+    color: rgb(0, 0, 0);
+    text-shadow: 1px 1px 1px white;
 }
