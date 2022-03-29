@@ -15,12 +15,17 @@ p { width: 400px;}
 .p-5{
     background-image: url(img/rodellarPaisaje.jpg);
     align-content: center;
-    color:rgb(252, 248, 6);
-    text-shadow: 3px 3px 7px black  ;
+    color:black;
+    text-shadow: 1px 1px 1px rgb(255, 251, 34) ;
+    
 }
 h1{
     text-transform: capitalize;
     }
+h2 {
+    color:white;
+    text-align: center;
+}
 
 .icono {
     width:5%;
@@ -80,11 +85,11 @@ body{
     border: fuchsia ,solid ,3px;
 }
 button{
-    background-color: yellowgreen;
+    background-color: yellow;
     align-items: center;
     align-content: center;
     text-shadow: none;
-    
+    border-radius: 20px;
 }
 .quienessomos{
     color:white;
@@ -107,7 +112,7 @@ button{
 
 a:hover{
     color :red;
-    text-transform: uppercase;
+    text-transform: unset;
 }
 .iconoescalada{
     width: 3%;
@@ -146,4 +151,11 @@ span {
 }
 li  {
     text-transform: capitalize;
+}
+.botonesHome {
+   text-align: center;
+    align-items: center;
+    align-content: space-between;
+    margin: 20px;
+    border-radius: 45px;
 }
