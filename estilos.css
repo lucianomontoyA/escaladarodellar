@@ -117,6 +117,8 @@ a:hover{
 h3{
     color:white;
     text-transform: capitalize;
+    text-align: center;
+    text-transform: uppercase;
 }
 
 .listaActividades{
@@ -127,4 +129,21 @@ h3{
     background-repeat: no-repeat;
     background-size: cover;
     text-shadow: 1px 1px 2px black;
+    text-align: center;
+    
+}
+.listaDeCursos{
+    text-transform: capitalize;
+    text-decoration: underline;
+    font-size: 30px;
+    text-shadow: 1px 1px 2px yellowgreen;
+        }
+span {
+    text-transform: capitalize;
+    text-decoration: underline;
+    font-size: 30px;
+    text-shadow: 1px 1px 2px yellowgreen;
+}
+li  {
+    text-transform: capitalize;
 }
