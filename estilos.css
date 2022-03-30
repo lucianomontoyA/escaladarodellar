@@ -100,7 +100,8 @@ button{
     color: aliceblue;
     height: 50px;
     background-color: black;
-}
+    text-transform: capitalize;
+    }
 
 .card-body{
     background-color: white;
