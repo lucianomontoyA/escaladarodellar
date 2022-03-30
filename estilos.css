@@ -25,6 +25,7 @@ h1{
 h2 {
     color:white;
     text-align: center;
+    text-decoration: underline;
 }
 
 .icono {
@@ -155,8 +156,7 @@ li  {
 }
 .botonesHome {
    text-align: center;
-    align-items: center;
-    align-content: space-between;
+    align-content: space-around;
     margin: 20px;
     border-radius: 45px;
 }
