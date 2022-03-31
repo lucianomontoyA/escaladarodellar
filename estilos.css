@@ -28,6 +28,12 @@ h2 {
     text-decoration: underline;
 }
 
+.contactoBtn{
+    color:white;
+    background-color: rgb(44, 214, 44);
+
+}
+
 .icono {
     width:5%;
     height: 5%;
@@ -85,12 +91,17 @@ body{
     align-content: center;
     border: fuchsia ,solid ,3px;
 }
+.botonwsp{
+    color: white;
+    text-transform: uppercase;
+}
 button{
     background-color: yellow;
     align-items: center;
     align-content: center;
     text-shadow: none;
     border-radius: 20px;
+    color:white;
 }
 .quienessomos{
     color:white;
